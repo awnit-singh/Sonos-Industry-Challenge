@@ -3,4 +3,7 @@ Their project was an integrated, collaborative music recommendation solution, bu
 
 <!-- [![Sonos Team Submission](https://imgur.com/LUvqes2)](http://www.youtube.com/watch?v=RL3DHz2HnnU "Sonos Team Submission")
  -->
-[![Sonos Team Submission](https://imgur.com/LUvqes2)](http://www.youtube.com/watch?v=RL3DHz2HnnU "Our team submission for Sonos Challenge!")
+<!-- [![Sonos Team Submission](https://imgur.com/LUvqes2)](http://www.youtube.com/watch?v=RL3DHz2HnnU "Our team submission for Sonos Challenge!") -->
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=RL3DHz2HnnU"><img src="https://imgur.com/LUvqes2" alt="Our team submission for Sonos Challenge!"></a>
+</div>
